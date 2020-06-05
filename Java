@@ -1,0 +1,39 @@
+
+													
+												
+var int = 8; //numeros inteiros
+var float = 1.5; //numeros com vírgulas
+var string = "BoasPessoal"; //tipo de dado para representar textos
+var char = "a"//é tipo string mas só representa um caracter
+var valor= true; //verdadeiro
+var valor= false; //falso
+var obj = {nome:['Fonsi', 'flash'],
+};
+
+var cores = ['Laranja', 'Roxo'];
+									//criar array
+
+var men = "Olá Mundo";// Variável Local
+mensagem = "Olá Mundo";// Variável Global
+
+var vnull= null; //váriavel nula
+var vnull="";
+
+var indef; //váriavel indefenida
+
+											
+
+
+/*dajkdkadkaskn       
+3dnjandjand
+daikdjakjdka
+kalmdkamdkadka
+adadamdad3*/ 
+adadahbdhabdjanj 
+//adada
+adadad
+//adadad2
+
+&&
+    ||
+    !23232
